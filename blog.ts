@@ -15,7 +15,7 @@ export const blogData: BlogPost[] = [
     title: "The Art of Sushi Making: A Deep Dive into Our Signature Rolls",
     date: "August 15, 2024",
     author: "Chef Nori",
-    image: "https://res.cloudinary.com/dukaroz3u/image/upload/v1755442995/zlcmvesoyfjo6tquxsrr.jpg",
+    image: "https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692535/525233823_638165775984081_1590284532714920445_n_lf9xey.jpg",
     excerpt: "Discover the secrets behind Posh Lounge's most beloved sushi rolls. From sourcing the freshest ingredients to the meticulous art of rolling, we unveil the craft that makes our sushi unforgettable.",
     content: `
       <p>At Posh Lounge Rooftop, sushi is more than just a dish; it's an art form. Every roll we create is a testament to our commitment to quality, freshness, and culinary innovation. Today, we're taking you behind the scenes to explore the craftsmanship that goes into our signature sushi rolls, a highlight for anyone seeking the best sushi in Dhaka.</p>
@@ -40,7 +40,7 @@ export const blogData: BlogPost[] = [
     title: "Rooftop Romance: The Perfect Date Night at Posh Lounge",
     date: "July 28, 2024",
     author: "Posh Lounge Team",
-    image: "https://res.cloudinary.com/dy80ftu9k/image/upload/v1755443220/Heo_Secion_image_pzcktp.png",
+    image: "https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692536/523490114_638165739317418_1988031452321103967_n_cub13t.jpg",
     excerpt: "Elevate your evenings with an unforgettable date night experience. Discover how our skyline views, intimate ambiance, and exquisite menu create the perfect backdrop for romance.",
     content: `
       <p>In a bustling city like Dhaka, finding the perfect spot for a memorable date night can be a challenge. You want somewhere with a captivating ambiance, exceptional food, and a touch of magic. Look no further than Posh Lounge Rooftop, where we specialize in creating unforgettable romantic experiences under the stars, solidifying our reputation as the go-to destination for a romantic dinner in Dhaka.</p>

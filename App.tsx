@@ -13,27 +13,27 @@ const featuredRecipes = [
   {
     name: 'Thai Pizza',
     description: 'A unique fusion of Italian classic and Thai flavors, featuring a rich Thai red curry sauce, grilled chicken, and fresh basil.',
-    image: 'https://res.cloudinary.com/dukaroz3u/image/upload/f_auto,q_auto/v1755443000/x8urstieksbrrh9crhwf.jpg',
+    image: 'https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692642/Thai_Pizza_kphd2j.jpg',
   },
   {
-    name: 'Premium Sizzling Platter',
-    description: 'A feast for the senses, this dish arrives with an impressive sizzle, promising an unforgettable dining experience.',
-    image: 'https://res.cloudinary.com/dukaroz3u/image/upload/f_auto,q_auto/v1755442999/mxzrpq4fs7wple8hfvcl.jpg',
+    name: 'Prawn Cheung Fun',
+    description: 'Delicate steamed rice noodle rolls filled with plump, juicy prawns, drizzled with a light and savory soy sauce for an authentic dim sum experience.',
+    image: 'https://res.cloudinary.com/dy80ftu9k/image/upload/v1755693192/Prawn_Cheung_Fun_btxfn5.jpg',
   },
   {
     name: 'Chili Crab Crunch',
     description: 'Crispy golden bites filled with succulent crab meat, tossed in our signature sweet and spicy chili sauce.',
-    image: 'https://res.cloudinary.com/dukaroz3u/image/upload/f_auto,q_auto/v1755442995/zlcmvesoyfjo6tquxsrr.jpg',
+    image: 'https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692791/Chilli_Crab_Crunch_g4jmcl.jpg',
   },
   {
     name: 'Tom Yum Rice Bowl',
     description: 'All the iconic, zesty, and aromatic flavors of Tom Yum soup deconstructed into a hearty and satisfying rice bowl.',
-    image: 'https://res.cloudinary.com/dukaroz3u/image/upload/f_auto,q_auto/v1755443002/jepp1moabzttsem0snnt.jpg',
+    image: 'https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692642/Tom_Yum_Rice_Bowl_epakwt.jpg',
   },
   {
     name: 'Yaki Tempura Roll',
     description: 'A savory fusion roll featuring crispy tempura shrimp, creamy cheese, and cucumber wrapped in seasoned sushi rice.',
-    image: 'https://res.cloudinary.com/dukaroz3u/image/upload/f_auto,q_auto/v1755443003/uap7e4aju0uexk7utp4u.jpg',
+    image: 'https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692643/yaki_tempura_paxthl.jpg',
   },
 ];
 
@@ -147,7 +147,7 @@ const AboutSection = ({ sectionRef }) => (
                     </p>
                 </div>
                 <div className="md:col-span-4 lg:col-span-6 grid grid-cols-2 gap-4">
-                     <img src="https://res.cloudinary.com/dukaroz3u/image/upload/v1755443003/uap7e4aju0uexk7utp4u.jpg" alt="Dining area" className="rounded-sm object-cover w-full h-48 md:h-64 filter brightness-75"/>
+                     <img src="https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692123/515438287_638165645984094_4756985604823061166_n_yttwem.jpg" alt="Dining area" className="rounded-sm object-cover w-full h-48 md:h-64 filter brightness-75"/>
                     <div className="pattern-bg rounded-sm w-full h-48 md:h-64"></div>
                      <img src="https://res.cloudinary.com/dukaroz3u/image/upload/v1755442995/zlcmvesoyfjo6tquxsrr.jpg" alt="Chocolate dessert" className="rounded-sm object-cover w-full h-48 md:h-64 col-span-2 filter brightness-75"/>
                 </div>
@@ -176,7 +176,7 @@ const SpecialtiesSection = ({ onNavigate }) => (
             <SectionTitle pre="Recommendations" title="Our Best Specialties" />
             <div className="grid md:grid-cols-2 gap-8 md:gap-16 items-center">
                 <div className="h-96 md:h-[500px] relative">
-                    <img src="https://res.cloudinary.com/dukaroz3u/image/upload/v1755442999/mxzrpq4fs7wple8hfvcl.jpg" alt="Premium Sizzling Platter" className="w-full h-full object-cover rounded-sm filter brightness-75"/>
+                    <img src="https://res.cloudinary.com/dy80ftu9k/image/upload/v1755692242/Premuim_Sizzling_Platter_n3ujvf.jpg" alt="Premium Sizzling Platter" className="w-full h-full object-cover rounded-sm filter brightness-75"/>
                 </div>
                 <div>
                     <h3 className="font-display text-3xl md:text-4xl text-brand-secondary mb-4">Premium Sizzling Platter</h3>
