@@ -352,7 +352,7 @@ const Footer = () => (
         <div className="container mx-auto px-4">
             <img src="https://res.cloudinary.com/dy80ftu9k/image/upload/v1755516557/POSH-LOUNGE-Logo_ibdfyp.png" alt="Posh Lounge Logo" className="h-28 mx-auto mb-8 opacity-50"/>
             <p>Posh Lounge Rooftop Restaurant & Fine dining, Safura Tower, Mirpur-12, Dhaka</p>
-            <p>10013 New York, +880 1600 775 177, poshloungebd@gmail.com</p>
+            <p>+880 1600 775 177, poshloungebd@gmail.com</p>
             <p className="mt-4">Open: 12:00 pm - 11:00 pm</p>
             <div className="flex justify-center space-x-6 mt-8">
                  <a href="https://www.facebook.com/poshloungerooftopbd" target="_blank" rel="noopener noreferrer" className="hover:text-brand-secondary transition-colors"><FacebookIcon className="w-6 h-6" /></a>
